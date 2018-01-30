@@ -13,7 +13,8 @@ A small Composer package for Laravel 4.2 to force HTTPS in the URL via a route f
 * [Required Environment Variables](#required-environment-variables)
 * [Route Filter](#route-filter)
     * [Force HTTPS Filter](#force-https-filter)
-* [Resources](#route-filters)
+* [Resources](#resources)
+    * [Route Filters](#route-filters)
 
 ## Installation
 
